@@ -56,3 +56,6 @@ Deploy Terraform:
 ![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/7.%20terraform%20plan_2.png?raw=true)
 ![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/8.%20terraform%20apply_1.png?raw=true)
 ![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/8.%20terraform%20apply_2.png?raw=true)
+
+**Final**
+![Final](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/9.%20final.png?raw=true)
