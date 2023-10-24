@@ -39,17 +39,20 @@ Deploy Terraform:
 
 ### Output
 
-**Part 1 output**
+**Part 1**
 
-![Part 1](/screenshot/01.%20az%20policy%20definition%20create.png)
-![Part 1](/screenshot/02.%20az%20policy%20assignment%20create.png)
+![Part 1](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/1.%20az%20policy%20definition.png?raw=true)
+![Part 1](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/2.%20az%20policy%20assignment%20create.png?raw=true)
+![Part 1](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/3.%20az%20policy%20assignment%20list.png?raw=true)
 
-**Part 4 output**
+**Part 2**
+![Part 2](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/4.%20packer%20build_1.png?raw=true)
+![Part 2](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/4.%20packer%20build_2.png?raw=true)
+![Part 2](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/5.%20myPackerImage.png?raw=true)
 
-Packer
-
-![packer](/screenshot/04.packer%20build.png)
-
-Terraform
-
-![Terraform](/screenshot/06.%20terraform%20apply.png)
+**Part 3**
+![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/6.%20terraform%20init.png?raw=true)
+![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/7.%20terraform%20plan_1.png?raw=true)
+![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/7.%20terraform%20plan_2.png?raw=true)
+![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/8.%20terraform%20apply_1.png?raw=true)
+![Part 3](https://github.com/tuan149/Azure_DevOp_Session1/blob/master/Screen/8.%20terraform%20apply_2.png?raw=true)
